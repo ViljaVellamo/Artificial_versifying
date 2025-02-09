@@ -24,7 +24,7 @@ def fetch_letters(input, order_number):
 
 while True:
 
-    number_int = input("Welcome to Artificial Diversifying. Please enter a 6 digit number sequence, "
+    number_int = input("Welcome to Artificial Versifying. Please enter a 6 digit number sequence, "
                        "numbers ranging from 1 to 9. \n"
                        "If you wish to generate a random poem, press 'r'. \n"
                        "If you wish to end the program, please press 'x'. \n")
